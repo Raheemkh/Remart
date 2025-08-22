@@ -1,11 +1,11 @@
-🛒 React Product Catalog 
+## 🛒 React Product Catalog 
 
 This is a simple React application that displays product categories and products using the [DummyJSON API](https://dummyjson.com/).
 Users can browse all products or filter them by category.
 
 ---
 
- 🚀 Features
+ ## 🚀 Features
 
 * Fetches product categories from API
 * Displays products with title, price, and image
@@ -14,7 +14,7 @@ Users can browse all products or filter them by category.
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 * **React.js** (Frontend library)
 * **Axios** (API requests)
@@ -23,7 +23,7 @@ Users can browse all products or filter them by category.
 
 ---
 
-📦 Installation & Setup
+## 📦 Installation & Setup
 
 1. Clone the repository:
 
