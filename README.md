@@ -60,7 +60,7 @@ src/
 
 ---
 
-🔗 API Endpoints Used
+## 🔗 API Endpoints Used
 
 * **Get Categories**: `https://dummyjson.com/products/categories`
 * **Get All Products**: `https://dummyjson.com/products`
@@ -68,20 +68,14 @@ src/
 
 ---
 
-📸 Screenshot
-
-(Add a screenshot of your app UI here once running)
-
----
-
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork and submit PRs.
 
 ---
 
-📜 License
+## 📜 License
 
 This project is licensed under the **MIT License**.
 
